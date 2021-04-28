@@ -6,7 +6,7 @@ description: How do I get create an account and start building my first Space
 
 ## Sign up to Bappo
 
-1. Go to [bappo.com](http://bappo.com/), click on Sign Up and follow the sign up instructions.
+1. Go to [bappo.com](http://bappo.com/), click on Sign Up and follow the sign up instructions..
 2. Once you have signed up successfully and logged into Bappo you should see a blank screen with only one button on it “Create New Space”.
 
 ## Create and Build Your Space
